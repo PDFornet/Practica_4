@@ -1,9 +1,9 @@
 site_name: Práctica 4 Pedro Díaz Fornet
-site_url: # https://framafra.github.io/resumen_Apache2/
+site_url: https://pdfornet.github.io/Practica_4/
 docs_dir: 'md'
 site_dir: 'docs'
-repo_url: # https://github.com/framafra/resumen_Apache2 para mostrar un link al repositorio
-repo_name: # framafra/resumen_Apache2
+repo_url: https://github.com/PDFornet/Practica_4.git 
+repo_name: PDFornet/Practica_4
 
 theme:
     name: mkdocs
