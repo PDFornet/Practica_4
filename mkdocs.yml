@@ -32,4 +32,4 @@ extra:
     generator: false #Muestra en el pie de página que se ha realizado con Mkdocs
     social:
     - icon: fontawesome/solid/paper-plane
-      link: mailto:<email-address>
+      link: mailto: pdfornet@gmail.com
